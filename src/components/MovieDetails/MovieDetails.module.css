@@ -1,0 +1,12 @@
+.image {
+  width: 250px;
+}
+
+.section {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.content {
+  margin: 20px;
+}
